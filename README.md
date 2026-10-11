@@ -1,6 +1,6 @@
-# ABC-FinTech ISO/IEC 27001 Compliance Readiness Documentation
+# ISO/IEC 27001 Compliance Readiness Documentation
 
-This repository contains ISO/IEC 27001:2022 compliance readiness documents for ABC-FinTech, a fictional FinTech company. These documents are designed to help organizations meet the requirements of the ISO/IEC 27001 standard, which outlines the best practices for establishing and maintaining an Information Security Management System (ISMS).
+This repository contains ISO/IEC 27001:2022 compliance readiness documents for a fictional FinTech company. These documents are designed to help organizations meet the requirements of the ISO/IEC 27001 standard, which outlines the best practices for establishing and maintaining an Information Security Management System (ISMS).
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The project covers a comprehensive set of documents that address various aspects
 
 | **Document Name**                                        | **Purpose**                                                                                                                 |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 1. **ABC-FinTech Company Outline**                       | Provides an overview of the company, including roles, departments, and key positions to support ISMS.                       |
+| 1. **Company Outline**                       | Provides an overview of the company, including roles, departments, and key positions to support ISMS.                       |
 | 2. **ISMS Scope**                                        | Defines the boundaries and applicability of the ISMS, specifying what parts of the organization are covered.                |
 | 3. **Information Security Policy**                       | Describes ABC-FinTech's commitment to information security, objectives, and compliance with ISO 27001.                      |
 | 4. **Risk Assessment**                                   | Details the process for identifying, analyzing, and evaluating information security risks.                                  |
