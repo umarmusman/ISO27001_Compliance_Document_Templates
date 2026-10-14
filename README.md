@@ -35,9 +35,10 @@ To use these documents as a starting point for your own organization's ISO 27001
 4. Maintain evidence of training and competence for employees involved in ISMS-related work.
 5. Use the provided templates for documenting nonconformities, corrective actions, and improvements.
 
-The documents were created with guidance and contributions from **ChatGPT**, an AI language model developed by OpenAI.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to suggest improvements or add new sections to this repository, feel free to open a pull request or raise an issue.
+
+
+AI used to create documents and generate scenarios.
 
