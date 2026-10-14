@@ -35,9 +35,6 @@ To use these documents as a starting point for your own organization's ISO 27001
 4. Maintain evidence of training and competence for employees involved in ISMS-related work.
 5. Use the provided templates for documenting nonconformities, corrective actions, and improvements.
 
-## Source & Inspiration
-
-The content and structure of this documentation are guided by the instructions given in the **SkillFront ISO/IEC 27001** which can be accessed at: https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate
 The documents were created with guidance and contributions from **ChatGPT**, an AI language model developed by OpenAI.
 
 ## Contributing
